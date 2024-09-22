@@ -32,7 +32,7 @@
   "emptyAgent": "No assistant available",
   "historyRange": "History Range",
   "inbox": {
-    "desc": "Activate the brain cluster and spark creative thinking. Your virtual assistant is here to communicate with you about everything.",
+    "desc": "Start a conversation with the virtual assistant",
     "title": "New Chat"
   },
   "input": {
